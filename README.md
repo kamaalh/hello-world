@@ -1,2 +1,4 @@
 # hello-world
 Hello World is a simple program that, when run, displays the message: Hello World . Fittingly, the Hello World program has long been the new programmer's induction into a myriad of programming languages.
+
+No one knows exactly why Hello World has stood the test of time so well. The most likely historical explanation is simply that a short program like Hello World once allowed the programmer to make sure that a language's compiler , development environment, and run-time environment were correctly installed. Because this involved a lot of work, a very simple program was used first to test things out. According to Wikipedia, the tradition of using the phrase "Hello, world" as the test message was influenced by an example program in the book "The C Programming Language", by Brian Kernighan and Dennis Ritchie.
